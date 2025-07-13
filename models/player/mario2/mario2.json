@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "chinamario",
-					"polys": 400,
-					"verts": 227
+					"name": "Rin1",
+					"polys": 3046,
+					"verts": 1605
 				}
 			],
 			"name": "body"
@@ -32,38 +32,38 @@
 	"controllers": [
 		{
 			"bone": 2,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 0,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 3,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 1,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 4,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 2,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 5,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 3,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}
 	],
-	"date": 1733791395,
+	"date": 1640326287,
 	"events": [
 		{
 			"event": 2001,
@@ -172,10 +172,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "939051bbc29ddfa5d0e882f7d82eb432",
+	"md5": "01d5ef8be103ea2cca92c418a2872e06",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\Users\\Danara\\Desktop\\gman\\Gman.mdl",
+	"name": "C:\\Users\\Joshua\\Desktop\\FERin\\FERin.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 240708,
+	"size": 400156,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -601,32 +601,32 @@
 			"parent": 6
 		}, 
 		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
 			"name": "Bip01 R Arm1",
-			"parent": 11
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 13
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Head",
@@ -637,24 +637,24 @@
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 17
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
+			"name": "Bip01 L Leg1",
+			"parent": 16
+		}, 
+		{
 			"name": "Bip01 R Leg1",
-			"parent": 19
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 20
+			"parent": 19
 		}
 	],
 	"skins": 1,
@@ -662,51 +662,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 8,
-			"name": "gloves.bmp",
-			"width": 8
-		}, 
-		{
-			"flags": 0,
-			"height": 48,
-			"name": "overalls.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "red.bmp",
-			"width": 8
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "face.bmp",
+			"height": 128,
+			"name": "MarioEye_Alb.bmp",
 			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 32,
-			"name": "cap.bmp",
-			"width": 64
+			"height": 256,
+			"name": "Mario_Alb.bmp",
+			"width": 256
 		}, 
 		{
-			"flags": 0,
-			"height": 8,
-			"name": "brown.bmp",
-			"width": 8
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "skin.bmp",
-			"width": 8
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "blue.bmp",
-			"width": 8
+			"flags": 32,
+			"height": 200,
+			"name": "default.bmp",
+			"width": 164
 		}
 	],
 	"version": 10
