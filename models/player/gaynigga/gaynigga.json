@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}
@@ -20,14 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/highcount/dawn/dawn",
-					"polys": 646,
-					"verts": 325
-				}, 
-				{
-					"name": "../dmatch/highcount/dawn/dawn",
-					"polys": 646,
-					"verts": 325
+					"name": "doomguy01",
+					"polys": 755,
+					"verts": 383
 				}
 			],
 			"name": "body"
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098057600,
+	"date": 1407389767,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +172,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ee0b2aa3d18c5954ee312f4f00311e62",
+	"md5": "a88e49960c82732e6864d50fc0d5f293",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Hgrunt/dawn.mdl",
+	"name": "deuce.mdl",
 	"preview": false,
 	"readme": true,
 	"seq_groups": "1",
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 321116,
+	"size": 688568,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -654,16 +649,12 @@
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 L Finger1",
 			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -671,26 +662,22 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 24
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 25
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 26
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger1",
 			"parent": 26
 		}
 	],
@@ -699,9 +686,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "null.bmp",
-			"width": 256
+			"height": 503,
+			"name": "Oberkrper22.bmp",
+			"width": 500
+		}, 
+		{
+			"flags": 0,
+			"height": 487,
+			"name": "Hose6.bmp",
+			"width": 376
+		}, 
+		{
+			"flags": 0,
+			"height": 83,
+			"name": "Schuhe2.bmp",
+			"width": 72
 		}
 	],
 	"version": 10

@@ -1,0 +1,9 @@
+skin by: Blam!
+name: gordi
+email: b1am@email.com
+description: Just a basic repaint bright blue hair
+	and some road warrior face paint.
+
+for more info email me or check out my site Black Mesa Vault at
+
+           http://members.xoom.com/B1am/BMV.html
