@@ -62,7 +62,9 @@
 			"name": "wrappers"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1592779320,
 	"events": [
 		{
 			"event": 2001,
@@ -172,7 +174,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4f46c48c7e47fe06109451902f8afe45",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pr.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

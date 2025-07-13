@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 973117684,
 	"events": [
 		{
 			"event": 0,
@@ -246,7 +248,11 @@
 	],
 	"id": 1414743113,
 	"md5": "321690acbe0899f16c7313cbe278f8fd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/arche/archtn",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

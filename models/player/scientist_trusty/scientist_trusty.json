@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1372031234,
 	"events": [
 		{
 			"event": 2001,
@@ -215,7 +217,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3816b8531b55e5939a77dbf41632429f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

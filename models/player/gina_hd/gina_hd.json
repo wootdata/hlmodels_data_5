@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -90,6 +91,7 @@
 			"type": 32
 		}
 	],
+	"date": 1123107238,
 	"events": [
 		{
 			"event": 2001,
@@ -199,7 +201,11 @@
 	],
 	"id": 1414743113,
 	"md5": "56526b10a2f7f311b51b7ed44d93b371",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gina.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

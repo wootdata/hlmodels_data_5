@@ -198,6 +198,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -232,6 +233,7 @@
 			"type": 8
 		}
 	],
+	"date": 1622553350,
 	"events": [
 		{
 			"event": 2001,
@@ -341,7 +343,11 @@
 	],
 	"id": 1414743113,
 	"md5": "935bfa7469f27c783c5aca16d41378a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
