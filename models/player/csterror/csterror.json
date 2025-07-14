@@ -186,7 +186,7 @@
 	"modid": 2,
 	"name": "CSTerror.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
