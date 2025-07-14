@@ -175,6 +175,7 @@
 	"md5": "1cbf012d791b4997ec0f50f87edf9383",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "models/player/spootyfull/spooty.mdl",
 	"preview": true,
 	"readme": false,

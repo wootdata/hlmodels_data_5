@@ -245,6 +245,7 @@
 	"md5": "9a3f1c1ea0d6432ec69dbaab5d1b74eb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "hecu.mdl",
 	"preview": true,
 	"readme": false,

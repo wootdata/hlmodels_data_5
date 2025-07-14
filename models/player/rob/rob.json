@@ -175,6 +175,7 @@
 	"md5": "f5b3f4bdb7658f0dcac77ad1882104c8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/rob/rob.mdl",
 	"preview": true,
 	"readme": false,
