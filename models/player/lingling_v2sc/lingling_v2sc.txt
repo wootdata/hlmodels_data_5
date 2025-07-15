@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lingling_v2
+Source Model Hash : 384563bba0d7f6067387ea73c408e111
+Source Model Date : 1546535058 (2019/01/03)
+
+Ported Model Name : lingling_v2sc
+Ported Model Hash : 49bbd6dc753f380213fc283e2e7d2f77
+Ported Model Date : 1752491953 (2025/07/14)

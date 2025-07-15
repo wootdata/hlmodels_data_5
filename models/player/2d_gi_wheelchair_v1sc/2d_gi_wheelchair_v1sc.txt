@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_soldier_wheelchair
+Source Model Hash : 17f5e1aa9fc7f951717e8ea09baa5138
+Source Model Date : 1553447470 (2019/03/24)
+
+Ported Model Name : 2d_gi_wheelchair_v1sc
+Ported Model Hash : 9839c6719a08e5890126b322f15c06f1
+Ported Model Date : 1752491318 (2025/07/14)

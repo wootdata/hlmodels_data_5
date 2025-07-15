@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : boro1
+Source Model Hash : a862c1311211494e109acfca1b543a71
+Source Model Date : 1268064805 (2010/03/08)
+
+Ported Model Name : boro1_v1sc
+Ported Model Hash : b4eda5ceb4c252cc2cc91654e715fe89
+Ported Model Date : 1752491444 (2025/07/14)

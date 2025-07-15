@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonic_sc4
+Source Model Hash : 754982708ad4f2849ac3f1978194b7fd
+Source Model Date : 1386967776 (2013/12/13)
+
+Ported Model Name : sonic_sc4_v1sc
+Ported Model Hash : 8e395fe094a7cbce877a72ff1cb15550
+Ported Model Date : 1752492296 (2025/07/14)

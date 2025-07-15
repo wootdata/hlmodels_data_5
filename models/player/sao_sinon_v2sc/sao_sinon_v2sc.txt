@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sao_sinon_v2
+Source Model Hash : c177e0f98b46f47dccf4732f4b7f3fd0
+Source Model Date : 1563797366 (2019/07/22)
+
+Ported Model Name : sao_sinon_v2sc
+Ported Model Hash : c578dcb9520c84539646d1098b1492b6
+Ported Model Date : 1752492236 (2025/07/14)

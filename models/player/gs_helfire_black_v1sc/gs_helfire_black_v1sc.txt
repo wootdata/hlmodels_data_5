@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_helfire_black
+Source Model Hash : 5fe849841c70365d47b373cfd8dbd953
+Source Model Date : 1457283671 (2016/03/06)
+
+Ported Model Name : gs_helfire_black_v1sc
+Ported Model Hash : 7c11486cbd12fe0ece20db7caacf26fa
+Ported Model Date : 1752491748 (2025/07/14)

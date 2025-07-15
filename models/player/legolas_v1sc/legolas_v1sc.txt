@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : legolas
+Source Model Hash : 2dbda083d6f365d3b8ea2d8cc506e2b3
+Source Model Date : 1264016173 (2010/01/20)
+
+Ported Model Name : legolas_v1sc
+Ported Model Hash : 125839f8f8c812ca76e38b6e497eaba0
+Ported Model Date : 1752491946 (2025/07/14)

@@ -1,0 +1,20 @@
+Original Creator: Demon Princess you can reach 'em at the_killer_snail@yahoo.com
+
+Retexture by: Lopan
+I just retextured this model for ME cause I was bored..
+Make sure to visit: http://www.CozmicShredder.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lopanspawn
+Source Model Hash : ead74117ae1ed2a30f0f29eeb09046ac
+Source Model Date : 1429533053 (2015/04/20)
+
+Ported Model Name : lopanspawn_v1sc
+Ported Model Hash : f5715a03fea6bf165beee60ad2e1e288
+Ported Model Date : 1752491962 (2025/07/14)

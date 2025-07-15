@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : candy_ghost
+Source Model Hash : 4d2e3653bdff4eb944e833f02581bf2f
+Source Model Date : 1724335395 (2024/08/22)
+
+Ported Model Name : candy_ghost_v1sc
+Ported Model Hash : c17a0faa182f278a409862f11e1138a2
+Ported Model Date : 1752491459 (2025/07/14)

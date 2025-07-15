@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_gs_grenheart
+Source Model Hash : e812bc380ecef70e34d34d46ad5e7c53
+Source Model Date : 1553790082 (2019/03/28)
+
+Ported Model Name : 2d_gs_grenheart_v1sc
+Ported Model Hash : c13fdec393f30b42b74b2d550e365b3c
+Ported Model Date : 1752491307 (2025/07/14)

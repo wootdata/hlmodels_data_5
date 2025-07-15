@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : face
+Source Model Hash : b30e67f2212a200c810458dfbe1deb5e
+Source Model Date : 1263576075 (2010/01/15)
+
+Ported Model Name : face_v1sc
+Ported Model Hash : a5ae3df616cf0a1321cfe0d918fdba5f
+Ported Model Date : 1752491642 (2025/07/14)

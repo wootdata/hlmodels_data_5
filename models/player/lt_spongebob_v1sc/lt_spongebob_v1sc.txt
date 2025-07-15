@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_spongebob
+Source Model Hash : 20aab964d31aa90f238ba7abf77eec7d
+Source Model Date : 1622850522 (2021/06/04)
+
+Ported Model Name : lt_spongebob_v1sc
+Ported Model Hash : dcb2c328c59f09598cccc63dd6fce19f
+Ported Model Date : 1752491970 (2025/07/14)

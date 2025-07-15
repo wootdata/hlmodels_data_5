@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : votoms_v2
+Source Model Hash : c278bcf538c60d6d86789f69d3607e41
+Source Model Date : 1590183513 (2020/05/22)
+
+Ported Model Name : votoms_v2sc
+Ported Model Hash : f26d9771d30efe23735b07130275bbaa
+Ported Model Date : 1752492497 (2025/07/14)

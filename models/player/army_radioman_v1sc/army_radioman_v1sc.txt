@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : army_radioman
+Source Model Hash : aeec84b176a921a7880b5331594cfce3
+Source Model Date : 1264598927 (2010/01/27)
+
+Ported Model Name : army_radioman_v1sc
+Ported Model Hash : 5c0efdb056b4701b97068647a1391c6a
+Ported Model Date : 1752491378 (2025/07/14)

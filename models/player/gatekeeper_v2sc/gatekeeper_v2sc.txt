@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gatekeeper_v2
+Source Model Hash : 28844a03e700bd0d8f16483c22bd3065
+Source Model Date : 1583045407 (2020/02/29)
+
+Ported Model Name : gatekeeper_v2sc
+Ported Model Hash : 4d3cd4192c0e2131f22a139dcd41783d
+Ported Model Date : 1752491673 (2025/07/14)

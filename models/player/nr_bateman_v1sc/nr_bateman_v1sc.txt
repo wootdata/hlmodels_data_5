@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_bateman
+Source Model Hash : dc63ca6c73227bb78611f481ff910573
+Source Model Date : 1468731332 (2016/07/16)
+
+Ported Model Name : nr_bateman_v1sc
+Ported Model Hash : 94cd8dffae0c322e9f56da1415a83de8
+Ported Model Date : 1752492101 (2025/07/14)

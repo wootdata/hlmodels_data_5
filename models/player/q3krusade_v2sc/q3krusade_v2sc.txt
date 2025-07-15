@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q3krusade_v2
+Source Model Hash : c52d2ac4ce564c25c1d0042f8a9ab557
+Source Model Date : 1583377989 (2020/03/04)
+
+Ported Model Name : q3krusade_v2sc
+Ported Model Hash : f81ab737dac412715faa9642032dc186
+Ported Model Date : 1752492178 (2025/07/14)

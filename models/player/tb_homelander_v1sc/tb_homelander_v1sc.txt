@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tb_homelander
+Source Model Hash : 090919863f37d2b7cbbb50040ef2fa4c
+Source Model Date : 1733772563 (2024/12/09)
+
+Ported Model Name : tb_homelander_v1sc
+Ported Model Hash : c4c7e6641294e57f10e07c8da26bb2da
+Ported Model Date : 1752492395 (2025/07/14)

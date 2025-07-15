@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spp_marijane
+Source Model Hash : 719e07dd49f564a0f7121dc799578953
+Source Model Date : 1482602300 (2016/12/24)
+
+Ported Model Name : spp_marijane_v1sc
+Ported Model Hash : ee4b52fc4af059ffad3835a366e9f077
+Ported Model Date : 1752492311 (2025/07/14)

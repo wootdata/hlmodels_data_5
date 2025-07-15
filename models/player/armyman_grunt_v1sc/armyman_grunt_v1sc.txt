@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armyman_grunt
+Source Model Hash : 1ba23349116f9d5549df1d172f55a45f
+Source Model Date : 1577391621 (2019/12/26)
+
+Ported Model Name : armyman_grunt_v1sc
+Ported Model Hash : 8f2d172bea91be679fdf91207b35b3fd
+Ported Model Date : 1752491377 (2025/07/14)

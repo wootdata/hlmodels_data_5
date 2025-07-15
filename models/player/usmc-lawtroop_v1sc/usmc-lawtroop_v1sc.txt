@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : usmc-lawtroop
+Source Model Hash : f45a5d044584b7b808a3f1bc080eda81
+Source Model Date : 1259163574 (2009/11/25)
+
+Ported Model Name : usmc-lawtroop_v1sc
+Ported Model Hash : 23189fa10b6504c688cf687e7d8f928a
+Ported Model Date : 1752492483 (2025/07/14)

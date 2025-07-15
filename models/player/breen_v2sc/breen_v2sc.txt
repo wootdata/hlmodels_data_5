@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : breen_v2
+Source Model Hash : 626f1ba4960f1d0d8f59aa9fdf1ea084
+Source Model Date : 1582893818 (2020/02/28)
+
+Ported Model Name : breen_v2sc
+Ported Model Hash : 65d1f93b7e56357c792f10e922bba54d
+Ported Model Date : 1752491447 (2025/07/14)

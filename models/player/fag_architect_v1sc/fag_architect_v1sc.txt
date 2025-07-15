@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fag_architect
+Source Model Hash : 615fba767554a7d7c5aaac3707e4f1f9
+Source Model Date : 1701615080 (2023/12/03)
+
+Ported Model Name : fag_architect_v1sc
+Ported Model Hash : b2022e3ea31923abd5fd6b9d16d39b07
+Ported Model Date : 1752491642 (2025/07/14)

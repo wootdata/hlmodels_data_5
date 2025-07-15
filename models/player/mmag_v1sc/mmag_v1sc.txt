@@ -1,0 +1,58 @@
+MMAG Model for Halflife & Opposing Force
+
+RESKIN BY Brian L. David   AKA   -No_One~  , [E&c]-Maelstrom~ ,Foolish George
+Model: ASWAT By Ian Waugh
+skin bits taken from Q3 as well as original Art and Alterations by Brian L. David
+
+THIS IS A CLAN SKIN DO NOT STEAL PLEASE RENAME AND ENJOY AS ANYTHING YOU LIKE AND 
+PLEASE DO NOT UPLOAD IT AND CLAIM IT TO BE YOUR work thanks and enjoy
+ 
+Clans Skinned FOr to DATE:  [D2A], [JOKER], [E&C]
+
+Teams skins not clan related:
+                            
+                             MAELSTROM SET 1 -4
+                             Daedelus SET 1-3
+Other Skins:
+            Default replacement set
+            Shephard
+            Tower
+            player (a hidden default)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Battle System Intitiated...
+
+All Systems go...
+
+Begining Target Aquisition.....
+
+
+
+
+-No_One~ is   SAFE...
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mmag
+Source Model Hash : c58fa99fc0cd114e1adb45883a3c569a
+Source Model Date : 1590889288 (2020/05/30)
+
+Ported Model Name : mmag_v1sc
+Ported Model Hash : bd0397f577b1f55c8ebca7e48c0a8efb
+Ported Model Date : 1752492037 (2025/07/14)

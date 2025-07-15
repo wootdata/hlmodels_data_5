@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : johannkraus
+Source Model Hash : f94df867aad1b2fbfe4ab27998938062
+Source Model Date : 1263929257 (2010/01/19)
+
+Ported Model Name : johannkraus_v1sc
+Ported Model Hash : f55f7020198c2665a1c3b53e95e22f2d
+Ported Model Date : 1752491864 (2025/07/14)

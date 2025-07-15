@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arknights_ansel_v2
+Source Model Hash : c8d4a4ad513bcdd768812c6e055b8930
+Source Model Date : 1649432021 (2022/04/08)
+
+Ported Model Name : arknights_ansel_v2sc
+Ported Model Hash : c176d00cf7ef06c2caec5589cf27d634
+Ported Model Date : 1752491367 (2025/07/14)

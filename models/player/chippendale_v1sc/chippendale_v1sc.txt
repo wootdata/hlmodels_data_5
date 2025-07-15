@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chippendale
+Source Model Hash : 065e0cfa6976bf8df4996f6d158f30dc
+Source Model Date : 1579695387 (2020/01/22)
+
+Ported Model Name : chippendale_v1sc
+Ported Model Hash : 22dc57fdf23d9c87d3840321e49a0cd3
+Ported Model Date : 1752491472 (2025/07/14)

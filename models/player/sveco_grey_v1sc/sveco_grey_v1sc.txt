@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sveco_grey
+Source Model Hash : 33657368a1871722ae9f5a52ff9b4ee7
+Source Model Date : 1230698774 (2008/12/30)
+
+Ported Model Name : sveco_grey_v1sc
+Ported Model Hash : 9f01e3a3cb0304ff167c86c178c4c49e
+Ported Model Date : 1752492353 (2025/07/14)

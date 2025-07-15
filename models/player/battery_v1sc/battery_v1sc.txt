@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : battery
+Source Model Hash : 4d9d88b62d8a5838901836712550ca1f
+Source Model Date : 1277818036 (2010/06/29)
+
+Ported Model Name : battery_v1sc
+Ported Model Hash : adba11bc7b135a93e71332fdea3c7877
+Ported Model Date : 1752491405 (2025/07/14)

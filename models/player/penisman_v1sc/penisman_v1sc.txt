@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : penisman
+Source Model Hash : 11023ae77df5efc3584483bb40f70821
+Source Model Date : 1235927722 (2009/03/01)
+
+Ported Model Name : penisman_v1sc
+Ported Model Hash : f71b552e669f631f8809fa6fb2d08793
+Ported Model Date : 1752492153 (2025/07/14)

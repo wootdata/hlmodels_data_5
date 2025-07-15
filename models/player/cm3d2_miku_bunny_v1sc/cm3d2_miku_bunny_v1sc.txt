@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cm3d2_miku_bunny
+Source Model Hash : 6fb660c1d8a9f033570633f8ff60d2c4
+Source Model Date : 1628285202 (2021/08/06)
+
+Ported Model Name : cm3d2_miku_bunny_v1sc
+Ported Model Hash : 97961cd1555e2483fe5de8a33d8b97c3
+Ported Model Date : 1752491490 (2025/07/14)

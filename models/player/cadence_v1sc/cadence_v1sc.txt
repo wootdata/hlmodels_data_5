@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cadence
+Source Model Hash : 35063d8eb5015cfdd626d46754448b2f
+Source Model Date : 1695697980 (2023/09/25)
+
+Ported Model Name : cadence_v1sc
+Ported Model Hash : 38529f9d7adf54541b27be3eb47f153c
+Ported Model Date : 1752491457 (2025/07/14)

@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : balloonboy
+Source Model Hash : 6f643ebcc805e3462f6c4a68343802a0
+Source Model Date : 1441789236 (2015/09/09)
+
+Ported Model Name : balloonboy_v1sc
+Ported Model Hash : ab273d440677671af58d34d631d89d2f
+Ported Model Date : 1752491398 (2025/07/14)

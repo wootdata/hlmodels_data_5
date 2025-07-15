@@ -1,0 +1,32 @@
+Type: 		Halflife Multiplayer Pluggin Model
+
+Name: 		JoKeBoT ... 
+
+Release Date: 	06/12/1999
+
+Author:		M Propre    
+
+E-Mail:		M-Propre@Wanadoo.fr
+
+Files:		JoKeBoT.mdl, JoKeBoT.bmp, JoKeBoT.txt 			
+
+Instructions:	Create a folder  Half-life\valve\models\player\JoKeBoT
+                and copy all the file in it.
+
+Note		This is my firts complete model (with some originals movements)
+		Look at the crazy moves he perform! ( run2, long-Jump, head-shoot and deadsitting ...)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jokebot
+Source Model Hash : ee6ee877ac5d2edf0a36d3d4f09ce747
+Source Model Date : 1462729337 (2016/05/08)
+
+Ported Model Name : jokebot_v1sc
+Ported Model Hash : 13382f34c9d99cdb43f16378057c37c7
+Ported Model Date : 1752491864 (2025/07/14)

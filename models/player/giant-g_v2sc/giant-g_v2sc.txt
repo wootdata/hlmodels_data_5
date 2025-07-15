@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : giant-g_v2
+Source Model Hash : cfac297d6bbe9a0ba81f63dfc2185ca0
+Source Model Date : 1583046020 (2020/02/29)
+
+Ported Model Name : giant-g_v2sc
+Ported Model Hash : bfca81e57248255160134dde4c36c33c
+Ported Model Date : 1752491699 (2025/07/14)

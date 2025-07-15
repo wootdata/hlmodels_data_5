@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bd_religious
+Source Model Hash : 8adce21a9f6797d2bde2ce8dfd359747
+Source Model Date : 1721420990 (2024/07/19)
+
+Ported Model Name : bd_religious_v1sc
+Ported Model Hash : 04a22bac1b881d17f1ec2745192c19b9
+Ported Model Date : 1752491423 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : asian_v2
+Source Model Hash : 6a076b45c74658f0a9d6b1fe37235e13
+Source Model Date : 1582884674 (2020/02/28)
+
+Ported Model Name : asian_v2sc
+Ported Model Hash : ea2f3af2e951349f0dcb651b812f94bc
+Ported Model Date : 1752491380 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kmd_lucoa_bikini
+Source Model Hash : f05532de2d3f00a5e7b23b8dd00a998f
+Source Model Date : 1590181415 (2020/05/22)
+
+Ported Model Name : kmd_lucoa_bikini_v1sc
+Ported Model Hash : 527bb11cd185465a63224570e7786064
+Ported Model Date : 1752491901 (2025/07/14)

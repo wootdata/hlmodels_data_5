@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : knuckles_dark_s5
+Source Model Hash : cfba3c757c819adf3d090c95789c1398
+Source Model Date : 1455597667 (2016/02/15)
+
+Ported Model Name : knuckles_dark_s5_v1sc
+Ported Model Hash : 06d093144c0d87436d00b57eac4ca1e8
+Ported Model Date : 1752491905 (2025/07/14)

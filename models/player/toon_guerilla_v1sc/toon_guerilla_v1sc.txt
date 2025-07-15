@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_guerilla
+Source Model Hash : 45c6adc0edb6f3698f21ff9e4923b63c
+Source Model Date : 1240097040 (2009/04/18)
+
+Ported Model Name : toon_guerilla_v1sc
+Ported Model Hash : 2feda863ff0f31e0bba475525e8bb8d7
+Ported Model Date : 1752492430 (2025/07/14)

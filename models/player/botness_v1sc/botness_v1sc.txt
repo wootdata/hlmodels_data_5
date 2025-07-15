@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : botness
+Source Model Hash : 7e110b4671c25da570d2ba8af859c9c9
+Source Model Date : 1268071121 (2010/03/08)
+
+Ported Model Name : botness_v1sc
+Ported Model Hash : 8ba6cf20a2ebaa3234bc580e1b61b00e
+Ported Model Date : 1752491445 (2025/07/14)

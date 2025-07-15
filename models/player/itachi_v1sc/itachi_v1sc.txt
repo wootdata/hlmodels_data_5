@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : itachi
+Source Model Hash : 0d7a89a7ec98cf739b2b724512ed8514
+Source Model Date : 1264539368 (2010/01/26)
+
+Ported Model Name : itachi_v1sc
+Ported Model Hash : 7a56d56f38ac723bba0e3ca7c5d05ee5
+Ported Model Date : 1752491853 (2025/07/14)

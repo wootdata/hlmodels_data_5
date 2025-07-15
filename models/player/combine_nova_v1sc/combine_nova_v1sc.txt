@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_nova
+Source Model Hash : 5273a10eba4edf94dc67cf3114f52cb9
+Source Model Date : 1458157710 (2016/03/16)
+
+Ported Model Name : combine_nova_v1sc
+Ported Model Hash : dd0393db572addd7d2bb343f0f6aef9b
+Ported Model Date : 1752491511 (2025/07/14)

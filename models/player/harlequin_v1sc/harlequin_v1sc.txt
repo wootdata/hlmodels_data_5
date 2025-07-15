@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : harlequin
+Source Model Hash : a1cab8331ed2ac54a9fb9bf6e935164a
+Source Model Date : 1268847788 (2010/03/17)
+
+Ported Model Name : harlequin_v1sc
+Ported Model Hash : e2a00e2791a9f60c299dae600ab4177f
+Ported Model Date : 1752491768 (2025/07/14)

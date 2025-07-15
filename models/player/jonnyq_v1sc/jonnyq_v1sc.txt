@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jonnyq
+Source Model Hash : 95c5fd7e7a090a33066da2f1836cc4db
+Source Model Date : 1429467628 (2015/04/19)
+
+Ported Model Name : jonnyq_v1sc
+Ported Model Hash : b5f9f5547e2088ec1f5880137e3ac7c8
+Ported Model Date : 1752491865 (2025/07/14)

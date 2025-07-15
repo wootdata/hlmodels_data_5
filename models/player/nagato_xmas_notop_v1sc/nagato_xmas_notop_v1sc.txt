@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nagato_xmas_topless
+Source Model Hash : a95096f1ee6b4cb8efa72d2a56478808
+Source Model Date : 1671179678 (2022/12/16)
+
+Ported Model Name : nagato_xmas_notop_v1sc
+Ported Model Hash : 6cd0c67e2d6503297f1a63dba975cd04
+Ported Model Date : 1752492064 (2025/07/14)

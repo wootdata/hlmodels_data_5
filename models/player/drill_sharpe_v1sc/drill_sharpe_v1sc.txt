@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : drill_sharpe
+Source Model Hash : 21c2d812262d56d9de898e076a3e23ef
+Source Model Date : 1509052901 (2017/10/26)
+
+Ported Model Name : drill_sharpe_v1sc
+Ported Model Hash : bcd3e764ee95a724057aa62a8b8cf1e6
+Ported Model Date : 1752491622 (2025/07/14)

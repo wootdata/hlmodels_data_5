@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : anbuc
+Source Model Hash : b3055de16cfc56b53c2da4c7e960f82c
+Source Model Date : 1456636068 (2016/02/27)
+
+Ported Model Name : anbuc_v1sc
+Ported Model Hash : c2ec1689d84bb79c6ea57253d16c86b1
+Ported Model Date : 1752491360 (2025/07/14)

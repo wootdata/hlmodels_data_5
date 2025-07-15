@@ -1,0 +1,16 @@
+male
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tfcengineer_v2
+Source Model Hash : 8855044461f28041a1c73144c72c754b
+Source Model Date : 1582939408 (2020/02/28)
+
+Ported Model Name : tfcengineer_v2sc
+Ported Model Hash : 9aecd13b14344fe72bb2f50883f020b7
+Ported Model Date : 1752492407 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : resident_sci-gman
+Source Model Hash : 4ac1b3dd988c96ec7751a7c206f27fa4
+Source Model Date : 1583907612 (2020/03/10)
+
+Ported Model Name : resident_sci-gman_v1sc
+Ported Model Hash : 27b97158e6255e1ce4d3a3dd184aefa2
+Ported Model Date : 1752492200 (2025/07/14)

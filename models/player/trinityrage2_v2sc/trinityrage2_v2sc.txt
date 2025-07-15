@@ -1,0 +1,63 @@
+Model name:  TRINITYrage
+Author:   ~A.u.s.t.i.n.
+Released:  Nov. 13th 1999
+____________________
+This is an edited model previously created by Neal 'Guplik' Corbett.
+I editied this model with further perfection and detail for the true matrix
+ fan.  I fixed, added, and edited multiple parts of the model which u can
+easily notice form Guplink's  version. 
+-remodeled breasts
+-adjusted spine formation
+-skinned the pants, boots, buckles
+-added a 3D hair srand in front of her face
+-remodeled boots to look femenine rather than square
+-added chromed buckles to boots
+-fixed the allingment of the face skin
+-fixed the nostrils 
+-fixed the skin colour strand that appeared on the back of her head
+-skinned the shirt  (it was just a black colour like the pants)
+-lightened the belt skin
+
+____________________
+This models was edited for the upcoming MOD " MATRIX HALF-LIFE "
+However this is the Deathmatch version.
+It includes the following new custom animations:
+(the jump and the long jump animations are exact replicas straight out 
+of the movie!!!)
+-ref_aim_mp5
+-ref_aim_shotgun
+-ref_aim_guass
+-crouch_aim_handgun
+-crouch_aim_python
+-crouch_idle
+-player_jump
+-player_longjump
+-death_simple
+-death_backwards
+
+***Special thanks go out to Scarecrow and the many many people that
+helped me test this model in servers every so often. Without 
+ScareCrow's gidance this model would not have been made possible.***
+Thats all, hope you enjoy this model as much as I did creating it.
+I will now continue my work on Morpheus, and Neo. 
+The Matrix has you.............
+
+Got questions suggestions, or comments e-mail me at:
+                                        manny@cgocable.net
+~A.u.s.t.i.n.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trinityrage2_v2
+Source Model Hash : 4c635a75e62f2ff910b2e457f4b7450a
+Source Model Date : 1591338760 (2020/06/04)
+
+Ported Model Name : trinityrage2_v2sc
+Ported Model Hash : 46641f322342340b83907e8c34c35587
+Ported Model Date : 1752492458 (2025/07/14)

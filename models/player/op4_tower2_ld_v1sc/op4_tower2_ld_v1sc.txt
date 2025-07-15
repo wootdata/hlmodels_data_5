@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_tower2_ld
+Source Model Hash : 5434fbf4eedf8bb01f68c7d0e04b0900
+Source Model Date : 1606664109 (2020/11/29)
+
+Ported Model Name : op4_tower2_ld_v1sc
+Ported Model Hash : 709fe4a4878bdba0e8aca2ff5d7b39f7
+Ported Model Date : 1752492127 (2025/07/14)

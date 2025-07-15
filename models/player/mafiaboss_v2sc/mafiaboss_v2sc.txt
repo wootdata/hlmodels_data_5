@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mafiaboss_v2
+Source Model Hash : 09edcb8ee363807422c5acbf8b7c3d87
+Source Model Date : 1429552887 (2015/04/20)
+
+Ported Model Name : mafiaboss_v2sc
+Ported Model Hash : 97983e120c050be45cf05449347317d0
+Ported Model Date : 1752491981 (2025/07/14)

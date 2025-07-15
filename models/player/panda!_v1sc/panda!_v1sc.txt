@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : panda!
+Source Model Hash : be9628736ac3499367ca5fd11ccd64b1
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : panda!_v1sc
+Ported Model Hash : a4416eef23eec0c33e137caa27f51d8b
+Ported Model Date : 1752492142 (2025/07/14)

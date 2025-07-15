@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grey_surfer
+Source Model Hash : 62753934b5efb51951cf6294be2a7810
+Source Model Date : 1265224370 (2010/02/03)
+
+Ported Model Name : grey_surfer_v1sc
+Ported Model Hash : 9e2def9a3ea16d4eb2b1443bff4cdef3
+Ported Model Date : 1752491741 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raidenmask
+Source Model Hash : ddb3467c7e4ef81c2dc0f59a3f101884
+Source Model Date : 1269244131 (2010/03/22)
+
+Ported Model Name : raidenmask_v1sc
+Ported Model Hash : a61396163c95da0d1656f3123f97088c
+Ported Model Date : 1752492184 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : meadows
+Source Model Hash : f283ce75286426f30e9d40fe2fc6b137
+Source Model Date : 1429568350 (2015/04/20)
+
+Ported Model Name : meadows_v1sc
+Ported Model Hash : 919d30b817ffbfd01f723415c6f16305
+Ported Model Date : 1752491998 (2025/07/14)

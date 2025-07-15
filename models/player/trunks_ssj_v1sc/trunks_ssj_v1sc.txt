@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trunks_ssj
+Source Model Hash : 4f99ab163afb6c5a54884da1d92e3115
+Source Model Date : 1445086242 (2015/10/17)
+
+Ported Model Name : trunks_ssj_v1sc
+Ported Model Hash : 25a3cdc97ae5be8ef1ebfd2b2c4daabb
+Ported Model Date : 1752492461 (2025/07/14)

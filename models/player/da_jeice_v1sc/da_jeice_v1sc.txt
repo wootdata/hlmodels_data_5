@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_jeice
+Source Model Hash : 2450fb71f01e264c96ee595c78352830
+Source Model Date : 1461123606 (2016/04/19)
+
+Ported Model Name : da_jeice_v1sc
+Ported Model Hash : f4dfd684d9a6e4b693d4007e6f9f8797
+Ported Model Date : 1752491586 (2025/07/14)

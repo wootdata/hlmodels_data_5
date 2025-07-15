@@ -1,0 +1,29 @@
+____________________________________________________________
+
+KC_hoppou_tot.mdl
+
+Original model from VRChat by Mogo Tol.
+
+Conversion for Sven Co-op by Tosic Nunja, 
+Model uses skeleton & custom animations of kc_northern_v3.
+
+Programs used : UnityRipper, Unity3D, Blender, GIMP, Crowbar.
+
+Special thanks to Imanobody & TwilightZone modders for help.
+
+_____________________________________________________________
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kc_hoppou_tot
+Source Model Hash : 9437957c87c8374bf580ee2540d3cbc4
+Source Model Date : 1636908185 (2021/11/14)
+
+Ported Model Name : kc_hoppou_tot_v1sc
+Ported Model Hash : 58940236d7d1666b9df441d783e608dd
+Ported Model Date : 1752491876 (2025/07/14)

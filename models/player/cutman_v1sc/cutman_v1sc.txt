@@ -1,0 +1,33 @@
+Cut Man     V-1.2
+
+Cut Man is a Rockman(Megaman) character.
+
+2016
+v1.2
+SC5.0 animation
+model fixed.
+reskin.
+
+2007-2008
+v1.1
+SC4.0B animation
+model fixed.
+v1.02
+texture bmp fixed.
+v1.0
+tenuki
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cutman
+Source Model Hash : 300ea20c5933ae3f2e078bf7229f11c4
+Source Model Date : 1462801282 (2016/05/09)
+
+Ported Model Name : cutman_v1sc
+Ported Model Hash : c062da713ea081cd76672ce7a087973a
+Ported Model Date : 1752491569 (2025/07/14)

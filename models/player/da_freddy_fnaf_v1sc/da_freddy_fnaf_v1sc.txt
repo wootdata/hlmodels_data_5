@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_freddy_fnaf
+Source Model Hash : e489f6f0a395d2b08b03948f0551676a
+Source Model Date : 1462606542 (2016/05/07)
+
+Ported Model Name : da_freddy_fnaf_v1sc
+Ported Model Hash : e7d3cf83ab93c0d2568973aa9475f358
+Ported Model Date : 1752491585 (2025/07/14)

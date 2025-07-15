@@ -1,0 +1,24 @@
+Credit:
+
+ Modeling by Kosetakashi(TAK)
+ 
+ smd converted by takedeppo.50cal ....(^^;)b yay
+
+////////////////////////////////////////////////
+GTASA用MOD「鍵山雛」
+制作者:コセタカシ(ＴＡＫ) 様
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_hina_v2
+Source Model Hash : 08aa11d448642f67ca60cc4d970b15e3
+Source Model Date : 1564669864 (2019/08/01)
+
+Ported Model Name : touhou_hina_v2sc
+Ported Model Hash : b58763f22da793fdcc9fd56f0e907473
+Ported Model Date : 1752492438 (2025/07/14)

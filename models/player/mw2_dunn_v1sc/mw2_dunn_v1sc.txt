@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_dunn
+Source Model Hash : dbd9a92891409f145c020c3c84668ace
+Source Model Date : 1281608980 (2010/08/12)
+
+Ported Model Name : mw2_dunn_v1sc
+Ported Model Hash : a2147da14fd5129efe111d172aba1d40
+Ported Model Date : 1752492050 (2025/07/14)

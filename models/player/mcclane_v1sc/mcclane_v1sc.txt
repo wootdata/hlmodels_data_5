@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mcclane
+Source Model Hash : fa8b5c38a20a902b5b412b4de5a2b17c
+Source Model Date : 1266071184 (2010/02/13)
+
+Ported Model Name : mcclane_v1sc
+Ported Model Hash : 19a260db003cff09605b3c3f77d662f4
+Ported Model Date : 1752491995 (2025/07/14)

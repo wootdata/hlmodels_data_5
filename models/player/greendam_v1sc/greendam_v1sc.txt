@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greendam
+Source Model Hash : 004b3a0442bec20e959d53c6aebb9aee
+Source Model Date : 1469188949 (2016/07/22)
+
+Ported Model Name : greendam_v1sc
+Ported Model Hash : 43af4716fb6aacc2c989ca558e520196
+Ported Model Date : 1752491737 (2025/07/14)

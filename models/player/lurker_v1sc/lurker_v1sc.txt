@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lurker
+Source Model Hash : 75b5c8348cb538e9ffdbae1ef549f0c3
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : lurker_v1sc
+Ported Model Hash : 9d74892e0816223c9d8b1cb5e40931c8
+Ported Model Date : 1752491975 (2025/07/14)

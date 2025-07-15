@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_rumia
+Source Model Hash : 241cf5216debe6dadd4d765269c59250
+Source Model Date : 1522365226 (2018/03/29)
+
+Ported Model Name : touhou_rumia_v1sc
+Ported Model Hash : be7d0813780139b8fe5aa098efeda7aa
+Ported Model Date : 1752492444 (2025/07/14)

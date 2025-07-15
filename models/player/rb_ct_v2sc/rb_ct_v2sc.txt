@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rb_ct_v2
+Source Model Hash : 1dc2e56363e3a36412e239e4557ec7e1
+Source Model Date : 1583378464 (2020/03/04)
+
+Ported Model Name : rb_ct_v2sc
+Ported Model Hash : ea316bf4c7ce31a884707bb0b82b7662
+Ported Model Date : 1752492190 (2025/07/14)

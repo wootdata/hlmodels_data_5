@@ -1,0 +1,68 @@
+! ! ! ! ! ! ! !
+!             !
+!   N O N O   !
+!	      !
+!  model for  !
+!  half-life  !
+! ! ! . . ! ! !
+       *
+      \_/
+
+9-30-2000
+by Med_freeman 
+Med_freeman@hotmail.com
+
+Installation :
+
+Just extract the three files to valve\models\player\nono
+files : nono.mdl nono.bmp nono.txt
+
+
+Description : 
+
+This model is a totally funny model.
+It's a kind of human mixed with a sort of penguin and even Pinocchio (For the nose !!).
+Only god knows why he's dressed with a black jacket and a bow tie.
+His right foot was taken from a duck!
+His left leg was even taken from Long John Silver (a famous Corsair), it's a wood leg.
+Uh, oh ! I forget to mention that this leg was animated like a normal leg !
+(Very funny ! )
+
+
+Info :
+
+It was created with Milkshape from Chumbalum Soft.
+I also used Paint shop Pro and even MsPaint to make the skin.
+Thankz to Scarecrow from Coldfusion for his great tutorials !
+
+Build time : Many hours (???)
+Team colors : No
+Animations : Standard animations
+vertices:    991 
+triangles:   1774
+groups:      1
+bones:       22
+materials:   1
+hitboxes:    15
+
+
+Comments :
+
+You can distribute this model freely as long as it is unmodified
+and this text file is included.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nono
+Source Model Hash : f555a77e91383390428bd3ea8bc84355
+Source Model Date : 1265641361 (2010/02/08)
+
+Ported Model Name : nono_v1sc
+Ported Model Hash : 4e4c2df9710ca881a3d66883e7918858
+Ported Model Date : 1752492098 (2025/07/14)

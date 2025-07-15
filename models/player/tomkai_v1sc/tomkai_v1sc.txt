@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tomkai
+Source Model Hash : 09d73a0bd62b3d27c43dbb54848f156b
+Source Model Date : 1708836860 (2024/02/24)
+
+Ported Model Name : tomkai_v1sc
+Ported Model Hash : 6e2c28e2cf91f51c52ccd3aebde057b0
+Ported Model Date : 1752492427 (2025/07/14)

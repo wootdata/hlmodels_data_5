@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : panteradelcallao
+Source Model Hash : ad584948d0b0cb73927b36a422e48617
+Source Model Date : 1654121231 (2022/06/01)
+
+Ported Model Name : panteradelcallao_v1sc
+Ported Model Hash : 94cd7237d751d45973992090a6ac2d01
+Ported Model Date : 1752492142 (2025/07/14)

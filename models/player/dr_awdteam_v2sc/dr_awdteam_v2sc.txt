@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dr_awdteam_v2
+Source Model Hash : c92d0b83a573d67e1de18baf23f0752c
+Source Model Date : 1583823837 (2020/03/10)
+
+Ported Model Name : dr_awdteam_v2sc
+Ported Model Hash : a3f1c0272142ee0c31a0409fb5b86207
+Ported Model Date : 1752491623 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : v4flower
+Source Model Hash : c013ec7966e5580c6115009d5d2f19e8
+Source Model Date : 1687840284 (2023/06/26)
+
+Ported Model Name : v4flower_v1sc
+Ported Model Hash : ce676d820c4d85743a394c189dd95db1
+Ported Model Date : 1752492486 (2025/07/14)

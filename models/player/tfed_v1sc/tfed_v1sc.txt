@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tfed
+Source Model Hash : eef1a81e75e2dad09aa77fefe84f53c7
+Source Model Date : 1579696457 (2020/01/22)
+
+Ported Model Name : tfed_v1sc
+Ported Model Hash : c764686312983729b0dcb805a4ecf327
+Ported Model Date : 1752492409 (2025/07/14)

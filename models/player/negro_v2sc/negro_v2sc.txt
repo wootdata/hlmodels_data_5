@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : negro_v2
+Source Model Hash : b279816e8b59557293dfff90cb81a681
+Source Model Date : 1584088763 (2020/03/13)
+
+Ported Model Name : negro_v2sc
+Ported Model Hash : cf25dc47a400d0f39836a311f8636b52
+Ported Model Date : 1752492077 (2025/07/14)

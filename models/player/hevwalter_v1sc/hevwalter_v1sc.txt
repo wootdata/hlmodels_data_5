@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevwalter
+Source Model Hash : dd8cff7cbf29dc5df1926f20c760ce4f
+Source Model Date : 1268836050 (2010/03/17)
+
+Ported Model Name : hevwalter_v1sc
+Ported Model Hash : 33228cab496a3b0b3a37ea5c1dcde23d
+Ported Model Date : 1752491790 (2025/07/14)

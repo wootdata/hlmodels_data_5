@@ -1,0 +1,41 @@
+18:16 04/12/2006
+
+------------------------------------
+[player] Romka's Barniel and kate
+------------------------------------
+
+-model:
+
+Body: A.I., Romka 
+Head: A.I., Romka 
+
+
+-model:
+
+Body: A.I., Romka 
+Head: A.I., Romka, Avril lavinge
+
+
+-misc: 
+
+Anims: Shanon Caldwell
+Hack: renard
+Render: renard
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kate2_v2
+Source Model Hash : d2f7559468efd86187567e7d1c54f16a
+Source Model Date : 1455995459 (2016/02/20)
+
+Ported Model Name : kate2_v2sc
+Ported Model Hash : a3b690fdf5aabec7ead58a07976b69a7
+Ported Model Date : 1752491873 (2025/07/14)

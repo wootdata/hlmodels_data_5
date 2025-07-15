@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_afterlife_hazmat
+Source Model Hash : 66cbfc56b38d4f90f42f9a506be276f5
+Source Model Date : 1553631574 (2019/03/26)
+
+Ported Model Name : 2d_alife_hazmat_v1sc
+Ported Model Hash : b978875ac9b075ae5f62d2189bb03f33
+Ported Model Date : 1752491304 (2025/07/14)

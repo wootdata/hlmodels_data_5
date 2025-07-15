@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : koishi
+Source Model Hash : 3ae831906367df361ff0dfae5e9b3326
+Source Model Date : 1265271424 (2010/02/04)
+
+Ported Model Name : koishi_v1sc
+Ported Model Hash : 0dbd9fe6e1dd107702b796e3cea1e8d7
+Ported Model Date : 1752491908 (2025/07/14)

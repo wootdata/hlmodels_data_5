@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kz_fgo_mheroine
+Source Model Hash : 0e37003db1c55958c36ca36123e445b3
+Source Model Date : 1542921618 (2018/11/22)
+
+Ported Model Name : 2d_fgo_mheroine_v1sc
+Ported Model Hash : b7218503b544658ebb0ffd5255bd0db8
+Ported Model Date : 1752491314 (2025/07/14)

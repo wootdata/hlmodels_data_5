@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tango-greencamo
+Source Model Hash : 31994678155eb0a13113d6d32a1b9e1d
+Source Model Date : 1230660142 (2008/12/30)
+
+Ported Model Name : tango-greencamo_v1sc
+Ported Model Hash : eb867c23ccc02dde34722a952aad31a9
+Ported Model Date : 1752492360 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : us_rifleman
+Source Model Hash : 619958de21a09fd887dd14537ebc693a
+Source Model Date : 1475701196 (2016/10/05)
+
+Ported Model Name : us_rifleman_v1sc
+Ported Model Hash : b477f11ad6261246a36dafd4dd40f7fd
+Ported Model Date : 1752492484 (2025/07/14)

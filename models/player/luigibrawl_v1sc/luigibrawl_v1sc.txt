@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : luigibrawl
+Source Model Hash : 3a3288ab0d36599dae076bbd6a58b5ed
+Source Model Date : 1681836785 (2023/04/18)
+
+Ported Model Name : luigibrawl_v1sc
+Ported Model Hash : 48b01f46bcde67ecc09b3fa43623a60a
+Ported Model Date : 1752491973 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flandre2
+Source Model Hash : 367372f0a6b25d706923e059c3678fbb
+Source Model Date : 1319635450 (2011/10/26)
+
+Ported Model Name : flandre2_v1sc
+Ported Model Hash : f98d4af05510d235044293ec72f22eb5
+Ported Model Date : 1752491652 (2025/07/14)

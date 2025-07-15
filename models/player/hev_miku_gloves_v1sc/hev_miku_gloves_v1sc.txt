@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hev_miku_gloves
+Source Model Hash : 640aa8b9869c3229584298b6baf141da
+Source Model Date : 1708966351 (2024/02/26)
+
+Ported Model Name : hev_miku_gloves_v1sc
+Ported Model Hash : d31fda9d40bd3b457ff8a2063844e284
+Ported Model Date : 1752491791 (2025/07/14)

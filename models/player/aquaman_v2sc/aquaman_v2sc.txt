@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aquaman_v2
+Source Model Hash : 605873d27eb6f147192360ab77925029
+Source Model Date : 1583607745 (2020/03/07)
+
+Ported Model Name : aquaman_v2sc
+Ported Model Hash : 746f376717cc8c9b5d5b3eea16fa0a76
+Ported Model Date : 1752491365 (2025/07/14)

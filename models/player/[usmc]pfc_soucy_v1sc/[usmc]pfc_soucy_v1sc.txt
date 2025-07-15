@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]pfc_soucy
+Source Model Hash : b1262cc9edc82f9058da3dd6c8bb09d0
+Source Model Date : 1542115342 (2018/11/13)
+
+Ported Model Name : [usmc]pfc_soucy_v1sc
+Ported Model Hash : cca8ff72cc49da771783c1385b81144f
+Ported Model Date : 1752492541 (2025/07/14)

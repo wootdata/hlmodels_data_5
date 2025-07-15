@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nge_asuka
+Source Model Hash : cc4956e17621b027cc499deca30e9c47
+Source Model Date : 1469188949 (2016/07/22)
+
+Ported Model Name : nge_asuka_v1sc
+Ported Model Hash : adb119eb934a9ba8bfffa316970f6e53
+Ported Model Date : 1752492092 (2025/07/14)

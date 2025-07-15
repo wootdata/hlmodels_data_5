@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : slash
+Source Model Hash : 72c6e9c7669106ac88b061572151055c
+Source Model Date : 1644109558 (2022/02/05)
+
+Ported Model Name : slash_v1sc
+Ported Model Hash : a6660fc0c738249e0911d8bd06c2b62c
+Ported Model Date : 1752492280 (2025/07/14)

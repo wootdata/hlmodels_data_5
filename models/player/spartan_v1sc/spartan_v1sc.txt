@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spartan
+Source Model Hash : 1405506ec2e0c717fa00be74a926ea7f
+Source Model Date : 1269958112 (2010/03/30)
+
+Ported Model Name : spartan_v1sc
+Ported Model Hash : f4acc1e91e7be93ebce13bbffbb22e4a
+Ported Model Date : 1752492305 (2025/07/14)

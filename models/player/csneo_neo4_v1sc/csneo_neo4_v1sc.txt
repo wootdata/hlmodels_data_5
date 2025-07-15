@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csneo_neo4
+Source Model Hash : bdfd44e825cc4196f93034eb2d2faa09
+Source Model Date : 1622898939 (2021/06/05)
+
+Ported Model Name : csneo_neo4_v1sc
+Ported Model Hash : ca2aea2618003c90b85d65d546ea76ee
+Ported Model Date : 1752491549 (2025/07/14)

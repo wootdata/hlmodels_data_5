@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_suikaabcedition
+Source Model Hash : 874736b48738090f06ea44d2b87a62eb
+Source Model Date : 1544589791 (2018/12/11)
+
+Ported Model Name : 2hu_suika_abc_v1sc
+Ported Model Hash : 20e3092497cbfe563702377ea90acb4b
+Ported Model Date : 1752492449 (2025/07/14)

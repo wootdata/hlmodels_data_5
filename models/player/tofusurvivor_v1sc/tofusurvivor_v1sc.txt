@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tofusurvivor
+Source Model Hash : 1a2bb86c50dd379e94bdd119d711a728
+Source Model Date : 1267635352 (2010/03/03)
+
+Ported Model Name : tofusurvivor_v1sc
+Ported Model Hash : e97fa6a405b14eef0a31a67ce8b18b9e
+Ported Model Date : 1752492424 (2025/07/14)

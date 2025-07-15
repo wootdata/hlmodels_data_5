@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : swatjimhelm
+Source Model Hash : bd50d0d9b524c59baa21bd1a390e85a9
+Source Model Date : 1270020352 (2010/03/31)
+
+Ported Model Name : swatjimhelm_v1sc
+Ported Model Hash : fbf7eea90e5b20836a8abfa820980f20
+Ported Model Date : 1752492354 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : n64_metalmario
+Source Model Hash : 348e8adf78f708d00be3ce15ed3870c7
+Source Model Date : 1375645836 (2013/08/04)
+
+Ported Model Name : n64_metalmario_v1sc
+Ported Model Hash : 9bfad171cf359a5b2c47007ea9ec70f9
+Ported Model Date : 1752492057 (2025/07/14)

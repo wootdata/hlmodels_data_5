@@ -1,0 +1,28 @@
+Authors for all the models:
+Mars Marshall
+HapSlash
+Chairwalker
+Kinja and team Yoda
+Proto
+Toonces
+
+Hacked and Complie: Napoleon
+
+Ok. They have some small errors (holding some weapons by...after all If you think you can make them better go to fpsbanana and port them your self! :D )
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stormt
+Source Model Hash : e6f7f46801683b38bcc18a3fe24791b0
+Source Model Date : 1269964130 (2010/03/30)
+
+Ported Model Name : stormt_v1sc
+Ported Model Hash : 6de5e539f19e76c78826b2f6b8406373
+Ported Model Date : 1752492347 (2025/07/14)

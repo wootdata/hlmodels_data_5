@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vizcarra2
+Source Model Hash : 2470e091e71c7b473565bddd4a65eb97
+Source Model Date : 1701058508 (2023/11/26)
+
+Ported Model Name : vizcarra2_v1sc
+Ported Model Hash : cff2955081475d1d969be5093f09ec00
+Ported Model Date : 1752492495 (2025/07/14)

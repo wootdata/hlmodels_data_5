@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_swordsm_tundra
+Source Model Hash : 41918b9c5a879068823fcadbebae644c
+Source Model Date : 1730380208 (2024/10/31)
+
+Ported Model Name : uk_swordsm_tundra_v1sc
+Ported Model Hash : 4df52d3ccc5bd6b5591d62dd84be4262
+Ported Model Date : 1752492475 (2025/07/14)

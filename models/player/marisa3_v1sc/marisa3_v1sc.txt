@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marisa3
+Source Model Hash : 527108ff4e88eee64e5d357728914fbd
+Source Model Date : 1250857676 (2009/08/21)
+
+Ported Model Name : marisa3_v1sc
+Ported Model Hash : d49dfe7d12fa65060f4f60168814cf38
+Ported Model Date : 1752491988 (2025/07/14)

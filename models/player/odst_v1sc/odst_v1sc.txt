@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : odst
+Source Model Hash : 5f2be14017e40c8c1800200423c30395
+Source Model Date : 1392104192 (2014/02/10)
+
+Ported Model Name : odst_v1sc
+Ported Model Hash : f820b83d965df5ebc2932b62e3b5fc0f
+Ported Model Date : 1752492113 (2025/07/14)
