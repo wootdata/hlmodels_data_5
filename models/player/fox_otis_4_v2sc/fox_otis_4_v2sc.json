@@ -188,7 +188,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223613,
+	"date": 1758225736,
 	"events": [
 		{
 			"event": 5004,
@@ -841,8 +841,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "Fox_otis_4.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

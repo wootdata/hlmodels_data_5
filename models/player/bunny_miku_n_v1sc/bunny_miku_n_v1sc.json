@@ -208,7 +208,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223610,
+	"date": 1758225730,
 	"events": [
 		{
 			"event": 5004,
@@ -861,8 +861,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "Hololive_Botan.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
