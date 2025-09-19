@@ -1,0 +1,29 @@
+Milititary Hgrunt from from Single Player Half-Life Deathmatch Model
+3D artist: 3xsistenZ
+
+Place the folder called "camogrunt" in the
+
+\sierra\half-life\valve\models\player folder.
+
+
+First i thought that i made a really good work with my Hgrunt model from half-life then Valve released it!! and i thought why not make a new skin,AND THE NINJA MONKEY OR SOMETHING MADE AN EXCACTLY SAME SKIN,so i made it a little bit cooler
+now he wears shades that the torch grunts in H.L Opposing Force Have (i made them myself!!)...
+
+3xsistenZ
+
+Contact me at "fzas@usa.net" if you have any problems, requests or general quiries about modeling\skinning for H.L,e-mail me!
+
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+
+(C)2000,Frederik (3xsistenZ) Larsson
+
+

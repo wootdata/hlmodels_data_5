@@ -1,0 +1,9 @@
+This model of Laguna Loire (Final Fantasy 8) is based on valve's
+holo model, which was converted by Ixnay.  It uses the deathmatch
+animations, not the holo ones.
+
+It uses a lot of textures, and took about a day to re-skin from the
+origonal holo.  I then went and imported the textures onto Ixnay's 
+holo model.
+
+Cloud

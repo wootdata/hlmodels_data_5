@@ -1,0 +1,19 @@
+Skinner: SlimReapeR
+Skin Name: Freeman2000
+Model Used:Freeman2000 a Modified Slave model (modified by slimreaper)
+
+A new millenium and Freeman is back! This time he's ready for action, with night vision goggles, a head
+set and a skull tropphy. This model includes new animations such as backflips, diving rolls and new death animatiotions. 
+
+
+Installation of Plugin
+
+Create a folder called freeman2000 in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+The animations have been taken from Trinity rage, Dr_Eastman and AVAC.
+
+

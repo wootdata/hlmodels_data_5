@@ -1,0 +1,79 @@
+October 22, 2000
+================================================================
+Model Name              : MMZ_LordCheez
+installation directory  : half-life/valve/models/players/<DIR HERE>
+Author                  : Daniel "KazeXtreme" Fields
+Skin Author : <Skinners name>  *only if different to modeler*
+Email Address           : kazeextreme@mindspring.com
+
+Model description       : This model of a member of my MMZ clan, LordCheez. This was derived from a character
+			  sketch on www.mmz.org, which was done by MMZ LordCheez
+
+
+Other info              : This model, as well as every other model I make for Half-Life, is fully compatable with
+			  both Halflife deathmatch and Counter-Strike beta 7.x . In order to do so, all bounding 
+			  boxes and skeletons were from a default biped derived from a CS model. This was done so 
+			  that people could use these models with CS without servers booting them for invalid models.
+
+Additional Credits to   : Milkshape 3D, Photoshop
+
+Thanks to               : MMZ LordCheez for giving me permission to bring his drawings to life
+================================================================
+* Play Information *
+
+New Sounds              : 
+CTF Skins               : 
+VWEP Support            : 
+
+
+* Construction *
+Poly Count              :
+Vert Count              :
+Skin Count              :
+Base                    : New Model
+Editor used             : Milkshape 3D
+Known Bugs              : none
+Build/Animation time    : god, dont ask, I've been doing over 40+ models for my MMZ clan and I have completely lost track of time spent.
+
+
+* How to use this model *
+
+This model is for both deathmatch and for counter-strike. 
+
+------------------------------------------
+| INSTALLATION INSTRUCTIONS - DEATHMATCH |
+------------------------------------------
+
+For deathmatch install simply unpak the zip file to the half-life/valve/models/players/mmz_LordCheez/
+
+If you have "use folder names" checked, the mmz_LordCheez folder will be automatically made.
+
+
+--------------------------------------------------
+| INSTALLATION INSTRUCTIONS - COUNTER-STRIKE     |
+--------------------------------------------------
+
+Rename the MMZ_LordCheez.MDL according to who you want to replace
+
+i.e. arab.mdl, terror.mdl, gsgn.mdl, gign.mdl, etc. and put them in the;
+
+Halflife\cstrike\models\player\arab
+                               arctic
+                               gign
+                               gsg9
+                               sas
+                               terror
+                               urban
+                               vip
+
+
+directories accordingly
+
+
+* Copyright / Permissions *
+
+This model was built from scratch except the skeletal system which was adobted from a base model for Counter-Strike B7.x
+
+If you wish to use this model for any means other than simple play, please contact me for authority.
+
+
