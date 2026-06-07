@@ -1,0 +1,19 @@
+Mirage from Counter-Strike: Online/Counter-Strike: Nexon, ported to SC by Ryor.
+The model has color remap. For original colors use:
+topcolor 130
+bottomcolor 135
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_mirage
+Source Model Hash : 3482175c7cd0b4b222b5e75259af2041
+Source Model Date : 1765391590 (2025/12/10)
+
+Ported Model Name : cso_mirage_v1sc
+Ported Model Hash : 2cf3b059f316dfcf1e27f86237567f38
+Ported Model Date : 1780823019 (2026/06/07)

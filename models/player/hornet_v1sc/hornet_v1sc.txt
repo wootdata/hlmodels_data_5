@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hornet
+Source Model Hash : ea2b16de6a180f047764d8301145d3d8
+Source Model Date : 1767389130 (2026/01/02)
+
+Ported Model Name : hornet_v1sc
+Ported Model Hash : ce590027e8d07a1eb43db293fdcf0d48
+Ported Model Date : 1780823028 (2026/06/07)

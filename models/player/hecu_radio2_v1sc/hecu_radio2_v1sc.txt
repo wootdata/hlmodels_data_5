@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hecu_radio2
+Source Model Hash : 0f7d7e47411980b3db68c761f3f04f89
+Source Model Date : 1775305386 (2026/04/04)
+
+Ported Model Name : hecu_radio2_v1sc
+Ported Model Hash : 32fcf69432f47321d854ce10c14bf66e
+Ported Model Date : 1780823024 (2026/06/07)
